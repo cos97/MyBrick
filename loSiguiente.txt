@@ -1,0 +1,9 @@
+1* Mejorar código
+
+2* Poder implementar htmlrequest y paginación
+
+3* Añadir funciones de organizador de colección (Guardar set a colección, añadir a lista de deseos, añadir precio, etc)
+
+4* Maquetar con css o similar
+
+5* Barajar opción de feedback positivo en bricklink para hacer tienda, y tener token para la api.
